@@ -8,7 +8,7 @@ package pkg01_variables_y_tipos;
  *
  * @author arcmo
  */
-public class Main {
+public class VarablesTipos {
 
     /**
      * @param args the command line arguments
