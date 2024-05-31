@@ -24,5 +24,8 @@ public class Main {
         int edad = receptor.nextInt();//Recoge la escucha en el formato pertinente.
         System.out.println("Tiene " + edad + " años.");
 
+        //Debemos cerrar el canal:
+        receptor.close();
+
     }
 }
