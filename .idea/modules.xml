@@ -3,8 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/01_variables_y_tipos/01_variables_y_tipos.iml" filepath="$PROJECT_DIR$/01_variables_y_tipos/01_variables_y_tipos.iml" />
-      <module fileurl="file://$PROJECT_DIR$/HolaMundo/HolaMundo.iml" filepath="$PROJECT_DIR$/HolaMundo/HolaMundo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/Java_I.iml" filepath="$PROJECT_DIR$/.idea/Java_I.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_stringToPrimitive/02_stringToPrimitive.iml" filepath="$PROJECT_DIR$/02_stringToPrimitive/02_stringToPrimitive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_primitiveToString/03_primitiveToString.iml" filepath="$PROJECT_DIR$/03_primitiveToString/03_primitiveToString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_scanner/04_scanner.iml" filepath="$PROJECT_DIR$/04_scanner/04_scanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_JOptionPane_InputDialog/05_JOptionPane_InputDialog.iml" filepath="$PROJECT_DIR$/05_JOptionPane_InputDialog/05_JOptionPane_InputDialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_JOptionPane_MessageDialog/06_JOptionPane_MessageDialog.iml" filepath="$PROJECT_DIR$/06_JOptionPane_MessageDialog/06_JOptionPane_MessageDialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_JOptionPane_ConfirmDialog/07_JOptionPane_ConfirmDialog.iml" filepath="$PROJECT_DIR$/07_JOptionPane_ConfirmDialog/07_JOptionPane_ConfirmDialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_JOptionPane_OptionDialog/08_JOptionPane_OptionDialog.iml" filepath="$PROJECT_DIR$/08_JOptionPane_OptionDialog/08_JOptionPane_OptionDialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09_EstructurasControl/09_EstructurasControl.iml" filepath="$PROJECT_DIR$/09_EstructurasControl/09_EstructurasControl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/00_HolaMundo/HolaMundo.iml" filepath="$PROJECT_DIR$/00_HolaMundo/HolaMundo.iml" />
     </modules>
   </component>
 </project>
