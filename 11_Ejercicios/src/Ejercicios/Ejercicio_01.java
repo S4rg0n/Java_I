@@ -4,7 +4,6 @@ import javax.swing.*;
 
 public class Ejercicio_01 {
     public static void main(String[] args) {
-
         /* Programa que solicita 2 números al usuario y devuelve por consola cuál de ellos es el mayor,
          * además de la suma, resta, multiplicación, división y módulo(resto) de estos.
         */
