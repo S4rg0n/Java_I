@@ -49,6 +49,7 @@ public class Ejercicio_11 {
             default:
                 JOptionPane.showMessageDialog(null, "Datos erróneos, finalizando programa.");
         }
+        System.out.println("Fin de programa.");
         scn.close();
     }
 }
